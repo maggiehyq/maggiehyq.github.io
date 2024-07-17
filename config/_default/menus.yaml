@@ -4,12 +4,18 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main: 
-  - name: Apple
-    url: apple/
+  - name: About
+    url: #content/authors
     weight: 2
-  - name: Linux
-    url: linux/
+  - name: Publications
+    url: #content/home/publications
     weight: 3
-  - name: Stuff
-    url: stuff/
+  - name: Working papers
+    url: #content/home/workingpaper
     weight: 4
+  - name: Short CV
+    url: #content/home/experience
+    weight: 5
+  - name: Contact
+    url: #content/home/contact
+    weight: 6
