@@ -25,28 +25,21 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: willi@mutschler.eu
-  phone: +49-7071-29-73140
+  email: maggieh_ruc@163.com
+  phone: +
   address:
-    street: 'Eberhard-Karls-University Tübingen<br />School of Business and Economics<br />Department of International Macroeconomics and Finance<br />Mohlstr. 36'
-    city: Tübingen
-    region: BW
-    postcode: 'D-72074'
-    country: Germany
-    country_code: DE
+    street: ' 1 International University Park Road'
+    city: Shenzhen
+    region: Longgang District
+    postcode: '518172'
+    country: China
+    country_code: CN
   coordinates:
-    latitude: '48.52970222407578'
-    longitude: '9.060530898768823'
-  directions: 'Enter the building and go to the 7th floor. My office is number 416.'
+    latitude: '22.679322'
+    longitude: '114.205778'
 #  office_hours:
 #    - 'Monday 10:00 to 13:00'
 #    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://schedule.mutschler.eu'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/wmutschl'
 #    - icon: skype
 #      icon_pack: fab
 #      name: Skype Me
