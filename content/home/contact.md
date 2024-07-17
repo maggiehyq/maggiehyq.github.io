@@ -28,8 +28,8 @@ content:
   email: maggieh_ruc@163.com
   phone: +
   address:
-    street: '1 International University Park Road,'
-    city: Shenzhen
+    street: '1 International University Park Road, 518172 Shenzhen'
+    city: 
     region: Longgang District
     postcode: ''
     country: China
