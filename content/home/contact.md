@@ -35,8 +35,8 @@ content:
     country: China
     country_code: CN
   coordinates:
-    latitude: '22.679322'
-    longitude: '114.205778'
+    latitude: '22.679921'
+    longitude: '114.20532'
 #  office_hours:
 #    - 'Monday 10:00 to 13:00'
 #    - 'Wednesday 09:00 to 10:00'
