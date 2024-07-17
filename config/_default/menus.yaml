@@ -7,11 +7,11 @@ main:
   - name: About
     url: '#Yiqi HUANG'
     weight: 2
-  - name: Publications
-    url: '#publications'
-    weight: 3
   - name: Working papers
     url: '#workingpaper'
+    weight: 3
+  - name: Publications
+    url: '#publications'
     weight: 4
   - name: Short CV
     url: '#experience'
