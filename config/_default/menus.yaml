@@ -5,17 +5,17 @@
 
 main: 
   - name: About
-    url: '#content/authors/Yiqi HUANG'
+    url: '#Yiqi HUANG'
     weight: 2
   - name: Publications
-    url: '#content/home/publications'
+    url: '#publications'
     weight: 3
   - name: Working papers
-    url: '#content/home/workingpaper'
+    url: '#workingpaper'
     weight: 4
   - name: Short CV
-    url: '#content/home/experience'
+    url: '#experience'
     weight: 5
   - name: Contact
-    url: '#content/home/contact'
+    url: '#contact'
     weight: 6
