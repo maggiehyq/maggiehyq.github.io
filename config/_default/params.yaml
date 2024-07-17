@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'mutschler.dev'
-    description: 'Tech blog of Willi Mutschler'
+    org_name: 'yiqi.HUANG'
+    description: 'Tech blog of Yiqi Huang'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Willi Mutschler. This work is licensed under {license}'
+    notice: '© {year} Yiqi Huang. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: true
@@ -55,7 +55,7 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '15:04'
-  address_format: de
+  address_format: cn
 
 # Site features
 
@@ -73,7 +73,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/wmutschl/mutschler.eu'
+    url: 'https://github.com/maggiehyq/yiqi_huang'
     content_dir: content
     branch: main
   avatar:
