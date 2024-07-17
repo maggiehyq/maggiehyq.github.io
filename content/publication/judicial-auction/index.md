@@ -41,7 +41,7 @@ abstract: The urban resale housing market has seen an increasing influence from 
 featured: false
 
 links:
-  - name: Online Access
+- name: Online Access
   url: https://www.sciencedirect.com/science/article/pii/S0197397524000535
 url_pdf: /files/papers/auction_2024.pdf
 url_code: ''
