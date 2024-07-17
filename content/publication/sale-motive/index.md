@@ -1,6 +1,5 @@
 ---
-title: 'Do the motivations behind home sales matter: Evidence from China's housing resale market'
-
+title: 'Do the motivations behind home sales matter'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
