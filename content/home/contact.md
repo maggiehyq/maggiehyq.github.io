@@ -32,8 +32,8 @@ content:
     city: 
     region: 
     postcode: 
-    country: China
-    country_code: CN
+    country: 
+    country_code:
   coordinates:
     latitude: '22.6822'
     longitude: '114.2007'
