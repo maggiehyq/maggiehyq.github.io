@@ -29,11 +29,7 @@ content:
   phone: +
   address:
     street: '1 International University Park Road, 518172 Shenzhen'
-    city: 
-    region: 
-    postcode: 
-    country: 
-    country_code:
+
   coordinates:
     latitude: '22.6822'
     longitude: '114.2007'
