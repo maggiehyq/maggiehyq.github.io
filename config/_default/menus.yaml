@@ -5,7 +5,7 @@
 
 main: 
   - name: About
-    url: '#Yiqi HUANG'
+    url: '#about'
     weight: 2
   - name: Working papers
     url: '#workingpaper'
