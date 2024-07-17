@@ -31,7 +31,7 @@ content:
     street: '1 International University Park Road,'
     city: Shenzhen
     region: Longgang District
-    postcode: '518172'
+    postcode: ''
     country: China
     country_code: CN
   coordinates:
