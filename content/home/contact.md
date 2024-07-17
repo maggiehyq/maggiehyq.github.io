@@ -27,7 +27,8 @@ content:
   # Contact details (edit or remove options as required)
   email: maggieh_ruc@163.com
   phone: +
-  address: '1 International University Park Road, 518172 Shenzhen'
+  address: 
+    street: '1 International University Park Road, 518172 Shenzhen'
   coordinates:
     latitude: '22.6822'
     longitude: '114.2007'
