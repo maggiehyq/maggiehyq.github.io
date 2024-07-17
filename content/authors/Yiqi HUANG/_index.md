@@ -28,13 +28,13 @@ interests:
   - Sustainable Development
   
 
- social:
- - icon: cv
-   icon_pack: ai
-   link: files/cv/YiqiHuang.pdf
- - icon: envelope
-   icon_pack: fas
-   link: '#contact'
+social:
+  - icon: cv
+    icon_pack: ai
+    link: files/cv/YiqiHuang.pdf
+  - icon: envelope
+    icon_pack: fas
+    link: '#contact'
 # - icon: ideas-repec
 #   icon_pack: ai
 #   link: https://ideas.repec.org/f/pmu508.html
