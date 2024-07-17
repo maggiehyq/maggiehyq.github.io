@@ -40,9 +40,9 @@ featured: false
 links:
 - name: Online Access
   url: https://www.sciencedirect.com/science/article/pii/S0197397521001314?via%3Dihub
-url_pdf: ''
+url_pdf: '/files/papers/concession_2021.pdf'
 url_code: ''
-url_dataset: '/files/papers/concession_2021.pdf'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
