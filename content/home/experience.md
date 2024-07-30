@@ -35,7 +35,7 @@ experience:
         * Teaching
         
   
-  - title: PhD student 
+  - title: Ph.D. in Economics
     company: Renmin University of China
     company_url: https://www.ruc.edu.cn/
     company_logo: ''
