@@ -29,9 +29,6 @@ interests:
   
 
 social:
-  - icon: cv
-    icon_pack: ai
-    link: files/cv/YiqiHuang.pdf
   - icon: envelope
     icon_pack: fas
     link: '#contact'
