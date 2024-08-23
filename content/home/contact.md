@@ -25,10 +25,9 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: maggieh_ruc@163.com
-  phone: +
+  email: hyq@smbu.edu.cn
   address: 
-    street: '1 International University Park Road, 518172 Shenzhen'
+    street: 'Room 543, Main Building, 1 International University Park Road, 518172 Shenzhen'
   coordinates:
     latitude: '22.6822'
     longitude: '114.2007'
