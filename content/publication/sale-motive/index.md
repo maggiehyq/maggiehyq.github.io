@@ -26,7 +26,7 @@ publishDate: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Habitat International'
+publication: '*Habitat International*'
 publication_short: ''
 
 abstract: "The extant literature does not fully explore the impacts of home sellers' sales motives on the housing market. Utilizing the housing resale micro-data sets in China from June 2016 to October 2020, this research finds that the investment motive of home sellers increases the housing sales price and premium rate (reduces the discount rate), while the liquidity motive reduces the sales price and shortens the time-on-market (TOM). There is heterogeneity in the two motivation strengths of sellers with different age, gender and marital status. The exogenous shock brought by the Home Purchase Restriction (HPR) policy diminishes home sellers' expectations of market demand and weakens their investment motives but amplifies their liquidity motives, resulting in lower sales prices, premium rates (higher discounts) and shorter TOM. Policymakers should consider the spillover effects of housing policies on home sellers' motives and housing supply."
@@ -41,13 +41,15 @@ abstract: "The extant literature does not fully explore the impacts of home sell
 featured: false
 
 links:
-url_pdf: 'motive_2025.pdf'
+  - name: Online Access
+    url: https://www.sciencedirect.com/science/article/pii/S0197397524000535
+url_pdf: /files/papers/motive_2025.pdf
 url_code: 
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://doi.org/10.1016/j.habitatint.2025.103625'
+url_source: 
 url_video: 
 url_preprint: ''
 
