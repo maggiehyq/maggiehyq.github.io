@@ -1,5 +1,5 @@
 ---
-title: 'The Impact of Online Information Disclosure on Home Buyer Behaviour: Empirical Evidence from China's Judicial Auction Housing Sector'
+title: 'The Impact of Online Information Disclosure on Home Buyer Behaviour: Empirical Evidence from China''s Judicial Auction Housing Sector'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
